@@ -1,5 +1,5 @@
 # Youtube Text Data Analysis
- In this project,four things were analysed:
+ In this project,three things were analysed:
  
  1.Sentiments of people in comments
  
@@ -18,4 +18,4 @@
 
 2.Open Jupyter notebook,navigate and open <filename>.ipynb
 
-**Note:The notebook file is not readable through github like other notebook files.This might be because of larger file size,so please download it to view.** 
+**Note:The notebook file might not be readable through github like other notebook files.This might be because of larger file size,so please download or u can view it from this link:https://bit.ly/3wiV7oN ** 
